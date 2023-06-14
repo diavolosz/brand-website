@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-import LandingPage from './landingPage';
+import LandingPage from './LandingPage';
 
 function App() {
   return (
